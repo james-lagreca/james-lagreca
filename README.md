@@ -12,7 +12,7 @@ Explore more about my work and research interests on my personal website: [james
 ## Current Research
 My research investigates:
 - Slip rates, earthquake chronologies, and complex rupture traces along the Alpine Fault in New Zealand
-- High-resolution mapping using LiDAR and DEMs to evlauate seismic hazard in Austalia and NZ. 
+- High-resolution mapping using LiDAR and DEMs to evlauate seismic hazard in Australia and NZ. 
 - Intraplate aftershock sequences
 - Earthquake Environmental Effects
   

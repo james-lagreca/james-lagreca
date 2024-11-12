@@ -1,6 +1,6 @@
 # James La Greca
 
-Welcome to my GitHub profile! I'm James La Greca, a PhD researcher focused on the Alpine Fault in New Zealand. I specialize paleoseismology and earthquake geology.
+Welcome to my GitHub profile! I'm James La Greca, a PhD researcher focused on the Alpine Fault in New Zealand. I specialize in paleoseismology and earthquake geology.
 
 ## My Website
 Explore more about my work and research interests on my personal website: [jameslagreca.com](https://jameslagreca.com/)
